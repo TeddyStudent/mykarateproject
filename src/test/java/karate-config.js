@@ -19,7 +19,7 @@ function() {
     test_user_pwd: 'teddypwd',
     new_user_fname: 'fname_test',
     new_user_lname: 'lname_test',
-    new_user_ktun: 'uname_test',
+    new_user_uname: 'uname_test',
     new_user_pwd: 'pwd_test',
     known_user_id: 1,
     unknown_user_id: 11,
